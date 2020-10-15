@@ -8,4 +8,3 @@
 .jupyter/
 .local/
 .profile
-./pyspark-dir/*
