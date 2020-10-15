@@ -8,4 +8,4 @@
 .jupyter/
 .local/
 .profile
-/pyspark-dir/learning-pyspark/VS14MORT.txt
+./pyspark-dir/learning-pyspark/VS14MORT.txt
